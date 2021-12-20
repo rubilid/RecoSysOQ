@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be1dd35-8a35-4cf6-863d-2e9e4f2478b5" name="Changes" comment="welcome">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main_scannerwebapp.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1639996660094</updated>
       <workItem from="1639996661590" duration="12000" />
-      <workItem from="1639996684707" duration="3003000" />
+      <workItem from="1639996684707" duration="3471000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1639997457572</created>
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640000207257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="welcome">
+      <created>1640000690318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640000690318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
